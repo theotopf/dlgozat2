@@ -4,4 +4,9 @@ h1{
 table{
     border: 2px;
     border-style: solid;
+    border-color: blue;
+}
+img{
+    height: 25%;
+    width: 25%;
 }
